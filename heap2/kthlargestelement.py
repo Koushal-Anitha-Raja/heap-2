@@ -1,3 +1,5 @@
+#Time_Complexity: O(nlogk)
+#Space_Complexity: O(k)
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         #creating a array
